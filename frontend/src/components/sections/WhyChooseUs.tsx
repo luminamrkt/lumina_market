@@ -51,7 +51,7 @@ export default function WhyChooseUs() {
             Kenapa Pilih <span className="gradient-text">Kami?</span>
           </h2>
           <p className="mt-4 text-white/60 max-w-xl mx-auto">
-            Kami berkomitmen memberikan pengalaman terbaik dalam jual beli akun Mobile Legends
+            Kami berkomitmen memberikan pengalaman terbaik dalam menyediakan berbagai macam akun Mobile Legends
           </p>
         </motion.div>
 
