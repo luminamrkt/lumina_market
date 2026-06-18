@@ -26,6 +26,9 @@ export const metadata: Metadata = {
     "akun mythic",
     "Lumina Market",
   ],
+  icons: {
+    icon: "/favicon.png",
+  },
   openGraph: {
     title: "Lumina Market - Jual Beli Akun Mobile Legends",
     description:
