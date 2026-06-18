@@ -10,10 +10,6 @@ const faqs = [
     a: "Ya, semua akun yang kami jual telah diverifikasi keamanannya. Kami memastikan akun tidak memiliki masalah seperti banned, recovery, atau issue keamanan lainnya.",
   },
   {
-    q: "Apakah bisa mengganti email akun?",
-    a: "Bisa. Sebagian besar akun yang kami jual bisa diganti emailnya. Kami akan membantu proses penggantian email agar akun sepenuhnya menjadi milikmu.",
-  },
-  {
     q: "Berapa lama proses transaksi?",
     a: "Proses transaksi sangat cepat. Setelah pembayaran dikonfirmasi, akun akan dikirim dalam waktu 5-15 menit melalui WhatsApp atau email.",
   },
