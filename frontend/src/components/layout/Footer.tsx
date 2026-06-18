@@ -1,6 +1,6 @@
 "use client"
 
-import { Instagram, Music2, MessageCircle, Mail } from "lucide-react"
+import { Instagram, Music2, MessageCircle } from "lucide-react"
 
 const footerLinks = [
   { label: "Beranda", href: "#hero" },
@@ -54,12 +54,6 @@ export default function Footer() {
               <li className="flex items-center gap-2">
                 <Instagram className="h-4 w-4 text-blue-400 shrink-0" />
                 <span>@lumina_mrkt</span>
-              </li>
-              <li className="flex items-center gap-2">
-                <Mail className="h-4 w-4 text-blue-400 shrink-0" />
-                <a href="mailto:support@mlaccountstore.com" className="hover:text-white transition-colors">
-                  support@mlaccountstore.com
-                </a>
               </li>
             </ul>
           </div>
