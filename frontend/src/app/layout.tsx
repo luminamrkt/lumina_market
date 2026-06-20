@@ -1,7 +1,6 @@
 import type { Metadata } from "next"
 import { Geist, Geist_Mono } from "next/font/google"
 import "./globals.css"
-import WelcomeModal from "@/components/sections/WelcomeModal"
 import ErrorBoundary from "@/components/shared/ErrorBoundary"
 
 const geistSans = Geist({
@@ -53,7 +52,6 @@ export default function RootLayout({
         <ErrorBoundary>
           {children}
         </ErrorBoundary>
-        <WelcomeModal />
       </body>
     </html>
   )

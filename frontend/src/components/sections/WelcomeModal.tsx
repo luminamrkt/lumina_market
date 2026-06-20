@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import Image from "next/image"
 import { motion, AnimatePresence } from "framer-motion"
 import { X, ExternalLink, Bell } from "lucide-react"
 import { Button } from "@/components/ui/button"
@@ -67,10 +68,13 @@ export default function WelcomeModal() {
           >
             <div className="aspect-video relative overflow-hidden bg-gradient-to-br from-blue-600 to-purple-700">
               {IMAGE_URL ? (
-                <img
+                <Image
                   src={IMAGE_URL}
                   alt="Pengumuman"
-                  className="w-full h-full object-contain p-2"
+                  fill
+                  className="object-contain p-2"
+                  sizes="(max-width: 672px) 100vw, 672px"
+                  priority={false}
                 />
               ) : (
                 <div className="w-full h-full flex items-center justify-center">
