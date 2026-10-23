@@ -21,7 +21,6 @@ const itemVariants = {
 const floatingCards = [
   {
     title: "Sultan 800+ Skin",
-    price: "Rp 3.800.000",
     badge: "Sultan",
     delay: 0.5,
     x: "10%",
@@ -31,7 +30,6 @@ const floatingCards = [
   },
   {
     title: "Mythic Glory",
-    price: "Rp 850K",
     badge: "Hot",
     delay: 0,
     x: "70%",
@@ -41,7 +39,6 @@ const floatingCards = [
   },
   {
     title: "Collector Edition",
-    price: "Rp 2.500.000",
     badge: "Langka",
     delay: 1,
     x: "80%",
@@ -146,7 +143,6 @@ export default function Hero() {
                     </div>
                     <div>
                       <p className="text-sm font-semibold text-white">{card.title}</p>
-                      <p className="text-xs text-white/50">{card.price}</p>
                     </div>
                     <Badge
                       variant={

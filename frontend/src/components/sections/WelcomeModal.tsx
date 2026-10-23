@@ -1,33 +1,40 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState, useEffect, useSyncExternalStore } from "react"
 import Image from "next/image"
 import { motion, AnimatePresence } from "framer-motion"
 import { X, ExternalLink, Bell } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
-// ============================================
-// Ganti URL di bawah ini dengan link gambar
-// yang ingin ditampilkan di modal pengumuman.
-// ============================================
 const IMAGE_URL = "https://res.cloudinary.com/dnre7nel7/image/upload/v1781764407/pengumuman_k0w2oy.jpg"
 
-export default function WelcomeModal() {
-  const [open, setOpen] = useState(false)
+function subscribeNoop() {
+  return () => {}
+}
 
-  useEffect(() => {
-    try {
-      const seen = localStorage.getItem("welcome_modal_seen")
-      if (seen !== "true") {
-        setOpen(true)
-      }
-    } catch {
-      setOpen(true)
-    }
-  }, [])
+function getModalSnapshot() {
+  try {
+    return localStorage.getItem("welcome_modal_seen") !== "true"
+  } catch {
+    return true
+  }
+}
+
+function getServerModalSnapshot() {
+  return false
+}
+
+export default function WelcomeModal() {
+  const shouldShow = useSyncExternalStore(
+    subscribeNoop,
+    getModalSnapshot,
+    getServerModalSnapshot
+  )
+  const [dismissed, setDismissed] = useState(false)
+  const open = shouldShow && !dismissed
 
   const handleClose = () => {
-    setOpen(false)
+    setDismissed(true)
     try {
       localStorage.setItem("welcome_modal_seen", "true")
     } catch {}

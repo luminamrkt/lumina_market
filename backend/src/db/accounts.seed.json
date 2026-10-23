@@ -1,0 +1,664 @@
+[
+  {
+    "id": "ml-001",
+    "title": "Sultan Immortal 800+ Skins",
+    "category": "sultan",
+    "rank": "Mythic Immortal",
+    "highestRank": "Mythic Immortal",
+    "totalSkins": 820,
+    "totalHeroes": 125,
+    "rareSkins": 45,
+    "emblems": 95,
+    "server": "Global",
+    "price": 3800000,
+    "status": "available",
+    "featured": true,
+    "isVerified": true,
+    "description": "Akun Sultan rank Mythic Immortal dengan koleksi 820+ skin termasuk skin limited edition, legend, dan collector. Cocok untuk kamu yang ingin bermain dengan hero lengkap dan skin terbaik. Akun ini sudah termasuk 125 hero dengan emblem hampir penuh.",
+    "images": [],
+    "skinCollection": [
+      {
+        "name": "Aspirant Layla",
+        "rarity": "legend"
+      },
+      {
+        "name": "Lightborn Franco",
+        "rarity": "epic"
+      },
+      {
+        "name": "Venom Gusion",
+        "rarity": "epic"
+      },
+      {
+        "name": "Exorcist Kagura",
+        "rarity": "legend"
+      },
+      {
+        "name": "Starlight Chou",
+        "rarity": "starlight"
+      },
+      {
+        "name": "Collector Hayabusa",
+        "rarity": "collector"
+      }
+    ],
+    "heroCollection": [
+      {
+        "name": "Fanny",
+        "role": "assassin"
+      },
+      {
+        "name": "Ling",
+        "role": "assassin"
+      },
+      {
+        "name": "Chou",
+        "role": "fighter"
+      },
+      {
+        "name": "Kagura",
+        "role": "mage"
+      },
+      {
+        "name": "Hayabusa",
+        "role": "assassin"
+      },
+      {
+        "name": "Claude",
+        "role": "marksman"
+      }
+    ],
+    "createdAt": "2026-06-20",
+    "views": 1520
+  },
+  {
+    "id": "ml-002",
+    "title": "Collector Edition 500+ Skins",
+    "category": "collector",
+    "rank": "Mythic Glory",
+    "highestRank": "Mythic Immortal",
+    "totalSkins": 520,
+    "totalHeroes": 118,
+    "rareSkins": 28,
+    "emblems": 88,
+    "server": "Asia",
+    "price": 2500000,
+    "status": "available",
+    "featured": false,
+    "isVerified": true,
+    "description": "Koleksi akun collector dengan 500+ skin termasuk skin-skin collector terbatas. Rank Mythic Glory dengan 118 hero siap pakai. Proses transfer cepat dan aman.",
+    "images": [],
+    "skinCollection": [
+      {
+        "name": "Collector Gusion",
+        "rarity": "collector"
+      },
+      {
+        "name": "Collector Fanny",
+        "rarity": "collector"
+      },
+      {
+        "name": "KOF Chou",
+        "rarity": "legend"
+      },
+      {
+        "name": "Epic Claude",
+        "rarity": "epic"
+      },
+      {
+        "name": "Starlight Hayabusa",
+        "rarity": "starlight"
+      }
+    ],
+    "heroCollection": [
+      {
+        "name": "Gusion",
+        "role": "assassin"
+      },
+      {
+        "name": "Fanny",
+        "role": "assassin"
+      },
+      {
+        "name": "Lancelot",
+        "role": "assassin"
+      },
+      {
+        "name": "Chou",
+        "role": "fighter"
+      }
+    ],
+    "createdAt": "2026-06-18",
+    "views": 980
+  },
+  {
+    "id": "ml-003",
+    "title": "Skin Rich Mythical Glory",
+    "category": "skin-rich",
+    "rank": "Mythical Glory",
+    "highestRank": "Mythical Glory",
+    "totalSkins": 420,
+    "totalHeroes": 112,
+    "rareSkins": 20,
+    "emblems": 82,
+    "server": "Global",
+    "price": 1200000,
+    "status": "available",
+    "featured": false,
+    "isVerified": true,
+    "description": "Akun Skin Rich dengan 420 skin pilihan dan rank Mythical Glory. Banyak skin epic dan elite. Harga terjangkau untuk koleksi skin melimpah.",
+    "images": [],
+    "skinCollection": [
+      {
+        "name": "Starlight Alucard",
+        "rarity": "starlight"
+      },
+      {
+        "name": "Epic Lesley",
+        "rarity": "epic"
+      },
+      {
+        "name": "Elite Fanny",
+        "rarity": "elite"
+      },
+      {
+        "name": "Special Chou",
+        "rarity": "special"
+      }
+    ],
+    "heroCollection": [
+      {
+        "name": "Alucard",
+        "role": "fighter"
+      },
+      {
+        "name": "Lesley",
+        "role": "marksman"
+      },
+      {
+        "name": "Fanny",
+        "role": "assassin"
+      },
+      {
+        "name": "Tigreal",
+        "role": "tank"
+      }
+    ],
+    "createdAt": "2026-06-15",
+    "views": 2100
+  },
+  {
+    "id": "ml-004",
+    "title": "Mythic Glory Tournament Ready",
+    "category": "tournament-ready",
+    "rank": "Mythical Glory",
+    "highestRank": "Mythical Glory",
+    "totalSkins": 350,
+    "totalHeroes": 108,
+    "rareSkins": 15,
+    "emblems": 80,
+    "server": "Asia",
+    "price": 1500000,
+    "status": "available",
+    "featured": false,
+    "isVerified": true,
+    "description": "Akun tournament ready dengan rank Mythical Glory. Meta hero lengkap, emblem mage dan assassin tinggi. Siap pakai untuk ranked maupun turnamen.",
+    "images": [],
+    "skinCollection": [
+      {
+        "name": "Legend Hayabusa",
+        "rarity": "legend"
+      },
+      {
+        "name": "Epic Lancelot",
+        "rarity": "epic"
+      },
+      {
+        "name": "Starlight Granger",
+        "rarity": "starlight"
+      }
+    ],
+    "heroCollection": [
+      {
+        "name": "Hayabusa",
+        "role": "assassin"
+      },
+      {
+        "name": "Lancelot",
+        "role": "assassin"
+      },
+      {
+        "name": "Granger",
+        "role": "marksman"
+      },
+      {
+        "name": "Esmeralda",
+        "role": "mage"
+      }
+    ],
+    "createdAt": "2026-06-12",
+    "views": 760
+  },
+  {
+    "id": "ml-005",
+    "title": "Rare Limited Legend Collection",
+    "category": "rare-limited",
+    "rank": "Legend",
+    "highestRank": "Mythic Glory",
+    "totalSkins": 280,
+    "totalHeroes": 100,
+    "rareSkins": 12,
+    "emblems": 75,
+    "server": "Global",
+    "price": 2500000,
+    "status": "available",
+    "featured": false,
+    "isVerified": true,
+    "description": "Koleksi akun rare limited dengan skin-skin legend dan limited edition yang sudah tidak tersedia di shop. Rank Legend dengan potensi push ke Mythic.",
+    "images": [],
+    "skinCollection": [
+      {
+        "name": "KOF Gusion",
+        "rarity": "legend"
+      },
+      {
+        "name": "M-World Karrie",
+        "rarity": "legend"
+      },
+      {
+        "name": "Transformers Johnson",
+        "rarity": "legend"
+      },
+      {
+        "name": "Star Wars Fanny",
+        "rarity": "legend"
+      }
+    ],
+    "heroCollection": [
+      {
+        "name": "Gusion",
+        "role": "assassin"
+      },
+      {
+        "name": "Karrie",
+        "role": "marksman"
+      },
+      {
+        "name": "Johnson",
+        "role": "tank"
+      },
+      {
+        "name": "Fanny",
+        "role": "assassin"
+      }
+    ],
+    "createdAt": "2026-06-10",
+    "views": 3400
+  },
+  {
+    "id": "ml-006",
+    "title": "Top Global Fanny Main",
+    "category": "top-global-ready",
+    "rank": "Mythic Immortal",
+    "highestRank": "Top Global Fanny",
+    "totalSkins": 300,
+    "totalHeroes": 95,
+    "rareSkins": 18,
+    "emblems": 78,
+    "server": "Asia",
+    "price": 4500000,
+    "status": "available",
+    "featured": true,
+    "isVerified": true,
+    "description": "Akun Top Global Fanny dengan winrate 75%+. Rank Mythic Immortal dengan 300 skin. Cocok untuk pemain yang ingin push rank tinggi dengan hero Fanny.",
+    "images": [],
+    "skinCollection": [
+      {
+        "name": "Legend Fanny",
+        "rarity": "legend"
+      },
+      {
+        "name": "Epic Fanny",
+        "rarity": "epic"
+      },
+      {
+        "name": "Starlight Fanny",
+        "rarity": "starlight"
+      },
+      {
+        "name": "Skylark Fanny",
+        "rarity": "elite"
+      }
+    ],
+    "heroCollection": [
+      {
+        "name": "Fanny",
+        "role": "assassin"
+      },
+      {
+        "name": "Ling",
+        "role": "assassin"
+      },
+      {
+        "name": "Benedetta",
+        "role": "assassin"
+      }
+    ],
+    "createdAt": "2026-06-08",
+    "views": 5200
+  },
+  {
+    "id": "ml-007",
+    "title": "Starlight Complete Set",
+    "category": "starlight-collection",
+    "rank": "Epic",
+    "highestRank": "Mythic",
+    "totalSkins": 220,
+    "totalHeroes": 90,
+    "rareSkins": 8,
+    "emblems": 70,
+    "server": "Global",
+    "price": 750000,
+    "status": "available",
+    "featured": false,
+    "isVerified": false,
+    "description": "Koleksi akun Starlight dengan hampir semua skin Starlight dari bulan ke bulan. Rank Epic, cocok untuk kolektor skin Starlight dengan budget terjangkau.",
+    "images": [],
+    "skinCollection": [
+      {
+        "name": "Starlight Vale",
+        "rarity": "starlight"
+      },
+      {
+        "name": "Starlight Brody",
+        "rarity": "starlight"
+      },
+      {
+        "name": "Starlight Benedetta",
+        "rarity": "starlight"
+      },
+      {
+        "name": "Starlight Barats",
+        "rarity": "starlight"
+      }
+    ],
+    "heroCollection": [
+      {
+        "name": "Vale",
+        "role": "mage"
+      },
+      {
+        "name": "Brody",
+        "role": "marksman"
+      },
+      {
+        "name": "Benedetta",
+        "role": "assassin"
+      },
+      {
+        "name": "Barats",
+        "role": "tank"
+      }
+    ],
+    "createdAt": "2026-06-05",
+    "views": 890
+  },
+  {
+    "id": "ml-008",
+    "title": "Budget Friendly Epic Account",
+    "category": "budget-friendly",
+    "rank": "Epic",
+    "highestRank": "Legend",
+    "totalSkins": 85,
+    "totalHeroes": 65,
+    "rareSkins": 3,
+    "emblems": 55,
+    "server": "Asia",
+    "price": 150000,
+    "status": "available",
+    "featured": false,
+    "isVerified": false,
+    "description": "Akun budget friendly dengan harga terjangkau. Rank Epic dengan 85 skin dan 65 hero. Cocok untuk pemula yang ingin mulai bermain dengan koleksi lumayan.",
+    "images": [],
+    "skinCollection": [
+      {
+        "name": "Elite Alucard",
+        "rarity": "elite"
+      },
+      {
+        "name": "Basic Layla",
+        "rarity": "basic"
+      },
+      {
+        "name": "Special Tigreal",
+        "rarity": "special"
+      }
+    ],
+    "heroCollection": [
+      {
+        "name": "Alucard",
+        "role": "fighter"
+      },
+      {
+        "name": "Layla",
+        "role": "marksman"
+      },
+      {
+        "name": "Tigreal",
+        "role": "tank"
+      },
+      {
+        "name": "Eudora",
+        "role": "mage"
+      }
+    ],
+    "createdAt": "2026-06-01",
+    "views": 4300
+  },
+  {
+    "id": "ml-009",
+    "title": "Mythic Glory Skin Collector",
+    "category": "skin-rich",
+    "rank": "Mythic Glory",
+    "highestRank": "Mythic Immortal",
+    "totalSkins": 650,
+    "totalHeroes": 120,
+    "rareSkins": 35,
+    "emblems": 90,
+    "server": "Global",
+    "price": 2750000,
+    "status": "sold",
+    "featured": false,
+    "isVerified": true,
+    "description": "Akun Skin Collector dengan 650 skin, rank Mythic Glory. Sudah termasuk skin collector, legend, dan epic dalam jumlah besar. Sayang sudah terjual.",
+    "images": [],
+    "skinCollection": [
+      {
+        "name": "Collector Hayabusa",
+        "rarity": "collector"
+      },
+      {
+        "name": "Collector Gusion",
+        "rarity": "collector"
+      },
+      {
+        "name": "Legend Chou",
+        "rarity": "legend"
+      },
+      {
+        "name": "Epic Ling",
+        "rarity": "epic"
+      }
+    ],
+    "heroCollection": [
+      {
+        "name": "Hayabusa",
+        "role": "assassin"
+      },
+      {
+        "name": "Gusion",
+        "role": "assassin"
+      },
+      {
+        "name": "Chou",
+        "role": "fighter"
+      },
+      {
+        "name": "Ling",
+        "role": "assassin"
+      }
+    ],
+    "createdAt": "2026-05-28",
+    "views": 6700
+  },
+  {
+    "id": "ml-010",
+    "title": "Rare Elite Skin Collection",
+    "category": "rare-limited",
+    "rank": "Legend",
+    "highestRank": "Mythic",
+    "totalSkins": 190,
+    "totalHeroes": 88,
+    "rareSkins": 10,
+    "emblems": 65,
+    "server": "Asia",
+    "price": 1800000,
+    "status": "reserved",
+    "featured": false,
+    "isVerified": true,
+    "description": "Koleksi akun rare dengan skin elite langka yang sudah tidak bisa dibeli. Rank Legend dengan 190 skin termasuk beberapa skin limited event.",
+    "images": [],
+    "skinCollection": [
+      {
+        "name": "Elite Saber",
+        "rarity": "elite"
+      },
+      {
+        "name": "Special Alpha",
+        "rarity": "special"
+      },
+      {
+        "name": "Elite Cyclops",
+        "rarity": "elite"
+      }
+    ],
+    "heroCollection": [
+      {
+        "name": "Saber",
+        "role": "assassin"
+      },
+      {
+        "name": "Alpha",
+        "role": "fighter"
+      },
+      {
+        "name": "Cyclops",
+        "role": "mage"
+      }
+    ],
+    "createdAt": "2026-05-20",
+    "views": 1200
+  },
+  {
+    "id": "ml-011",
+    "title": "Budget Mythic Push Ready",
+    "category": "budget-friendly",
+    "rank": "Mythic",
+    "highestRank": "Mythic",
+    "totalSkins": 120,
+    "totalHeroes": 75,
+    "rareSkins": 5,
+    "emblems": 60,
+    "server": "Global",
+    "price": 350000,
+    "status": "available",
+    "featured": false,
+    "isVerified": false,
+    "description": "Akun Mythic dengan harga budget. 120 skin dan 75 hero. Emblem lengkap untuk hero meta. Siap push rank lanjutan.",
+    "images": [],
+    "skinCollection": [
+      {
+        "name": "Epic Pharsa",
+        "rarity": "epic"
+      },
+      {
+        "name": "Starlight Chang'e",
+        "rarity": "starlight"
+      },
+      {
+        "name": "Special Ruby",
+        "rarity": "special"
+      }
+    ],
+    "heroCollection": [
+      {
+        "name": "Pharsa",
+        "role": "mage"
+      },
+      {
+        "name": "Chang'e",
+        "role": "mage"
+      },
+      {
+        "name": "Ruby",
+        "role": "fighter"
+      }
+    ],
+    "createdAt": "2026-05-15",
+    "views": 2800
+  },
+  {
+    "id": "ml-012",
+    "title": "Sultan Legendary Bundle",
+    "category": "sultan",
+    "rank": "Mythical Glory",
+    "highestRank": "Mythic Immortal",
+    "totalSkins": 950,
+    "totalHeroes": 128,
+    "rareSkins": 55,
+    "emblems": 98,
+    "server": "Global",
+    "price": 5500000,
+    "originalPrice": 7000000,
+    "status": "available",
+    "featured": true,
+    "isVerified": true,
+    "description": "Paket Sultan terlengkap dengan 950+ skin termasuk semua skin legend dan collector yang pernah rilis. 128 hero lengkap dengan emblem hampir maksimal. Akun VIP dengan akses ke semua konten premium.",
+    "images": [],
+    "videoPreview": "",
+    "skinCollection": [
+      {
+        "name": "All KOF Skins",
+        "rarity": "legend"
+      },
+      {
+        "name": "All M-World Skins",
+        "rarity": "legend"
+      },
+      {
+        "name": "All Collector Skins",
+        "rarity": "collector"
+      },
+      {
+        "name": "All Starlight Skins",
+        "rarity": "starlight"
+      },
+      {
+        "name": "Transformers Set",
+        "rarity": "legend"
+      },
+      {
+        "name": "Star Wars Set",
+        "rarity": "legend"
+      }
+    ],
+    "heroCollection": [
+      {
+        "name": "All Heroes",
+        "role": "all"
+      }
+    ],
+    "createdAt": "2026-06-21",
+    "views": 8900
+  }
+]

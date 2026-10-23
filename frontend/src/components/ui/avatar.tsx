@@ -1,6 +1,7 @@
 "use client"
 
 import * as React from "react"
+import Image from "next/image"
 import { cn } from "@/lib/utils"
 
 interface AvatarProps extends React.HTMLAttributes<HTMLDivElement> {
@@ -23,10 +24,12 @@ const Avatar = React.forwardRef<HTMLDivElement, AvatarProps>(
         {...props}
       >
         {src && !error ? (
-          <img
+          <Image
             src={src}
             alt={alt || ""}
-            className="aspect-square h-full w-full object-cover"
+            fill
+            sizes="48px"
+            className="object-cover"
             onError={() => setError(true)}
           />
         ) : (

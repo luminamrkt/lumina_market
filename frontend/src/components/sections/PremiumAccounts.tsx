@@ -11,7 +11,6 @@ const accounts = [
     rank: "Mythic Immortal",
     skins: 350,
     heroes: 120,
-    price: "Rp 750.000",
     badge: "Hot",
     gradient: "from-blue-600 to-purple-700",
     icon: Swords,
@@ -21,7 +20,6 @@ const accounts = [
     rank: "Mythic Glory",
     skins: 520,
     heroes: 115,
-    price: "Rp 1.200.000",
     badge: "Premium",
     gradient: "from-purple-600 to-pink-700",
     icon: Sparkles,
@@ -31,7 +29,6 @@ const accounts = [
     rank: "Legend",
     skins: 280,
     heroes: 100,
-    price: "Rp 2.500.000",
     badge: "Langka",
     gradient: "from-amber-500 to-orange-700",
     icon: Star,
@@ -41,7 +38,6 @@ const accounts = [
     rank: "Mythical Glory",
     skins: 800,
     heroes: 125,
-    price: "Rp 3.800.000",
     badge: "Sultan",
     gradient: "from-yellow-500 to-red-700",
     icon: Shield,
@@ -98,7 +94,6 @@ export default function PremiumAccounts() {
                     <span className="text-white/50">Skin: {acc.skins}</span>
                     <span className="text-white/50">Hero: {acc.heroes}</span>
                   </div>
-                  <div className="text-lg font-bold gradient-text mb-4">{acc.price}</div>
                   <Button className="w-full group">
                     Beli Sekarang
                   </Button>

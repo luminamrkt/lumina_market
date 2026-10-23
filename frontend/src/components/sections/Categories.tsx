@@ -16,42 +16,36 @@ const categories = [
     icon: Coins,
     name: "Akun Murah",
     desc: "Akun starter dengan harga terjangkau, cocok untuk pemula.",
-    price: "Mulai Rp 50K",
     color: "from-green-500 to-emerald-600",
   },
   {
     icon: TrendingUp,
     name: "Akun Menengah",
     desc: "Rank Epic sampai Legend dengan koleksi skin menarik.",
-    price: "Mulai Rp 150K",
     color: "from-blue-500 to-cyan-600",
   },
   {
     icon: Trophy,
     name: "Akun Rank Tinggi",
     desc: "Mythic, Mythical Glory, sampai Immortal rank tinggi.",
-    price: "Mulai Rp 400K",
     color: "from-purple-500 to-violet-600",
   },
   {
     icon: Crown,
     name: "Akun Sultan",
     desc: "Koleksi skin limited & legend lengkap, status elite.",
-    price: "Mulai Rp 1Jt",
     color: "from-yellow-500 to-orange-600",
   },
   {
     icon: Gem,
     name: "Akun Kolektor",
     desc: "Skin collector edisi terbatas & event spesial.",
-    price: "Mulai Rp 800K",
     color: "from-pink-500 to-rose-600",
   },
   {
     icon: Shield,
     name: "Akun Full Skin",
     desc: "Punya hampir semua skin di game. Pilihan ultimate.",
-    price: "Mulai Rp 3Jt",
     color: "from-red-500 to-amber-600",
   },
 ]
@@ -111,7 +105,6 @@ export default function Categories() {
                 <h3 className="text-lg font-semibold text-white mb-2">{cat.name}</h3>
                 <p className="text-sm text-white/50 mb-4 leading-relaxed">{cat.desc}</p>
                 <div className="flex items-center justify-between">
-                  <span className="text-sm font-semibold gradient-text">{cat.price}</span>
                   <Button variant="ghost" size="sm" className="text-xs">
                     Lihat Detail
                   </Button>

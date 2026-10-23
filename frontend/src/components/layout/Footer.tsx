@@ -1,10 +1,10 @@
 "use client"
 
-import { Instagram, Music2, MessageCircle } from "lucide-react"
+import { Instagram, MessageCircle } from "lucide-react"
 
 const footerLinks = [
   { label: "Beranda", href: "#hero" },
-  { label: "Katalog", href: "#categories" },
+  { label: "Katalog", href: "/katalog" },
   { label: "FAQ", href: "#faq" },
   { label: "Kontak", href: "#contact" },
 ]
